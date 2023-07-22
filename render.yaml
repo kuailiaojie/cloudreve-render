@@ -2,7 +2,7 @@ services:
   - type: web
     name: cloudreve
     env: docker
-    repo: https://github.com/chuyua/cloudreve-render.git
+    repo: https://github.com/kuailiaojie/cloudreve-render.git
     region: Singapore
     plan: free
     healthCheckPath: /
